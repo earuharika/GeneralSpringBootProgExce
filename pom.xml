@@ -28,8 +28,8 @@
 	
      <repositories>
         <repository>
-          <id>springfeed3</id>
-          <url>https://pkgs.dev.azure.com/earuharika98/artifact3/_packaging/springfeed3/maven/v1</url>
+          <id>feed1</id>
+          <url>https://pkgs.dev.azure.com/earuharika98/artifact3/_packaging/feed1/maven/v1</url>
           <releases>
           <enabled>true</enabled>
           </releases>
@@ -41,8 +41,8 @@
 	
      <distributionManagement>
         <repository>
-          <id>springfeed3</id>
-          <url>https://pkgs.dev.azure.com/earuharika98/artifact3/_packaging/springfeed3/maven/v1</url>
+          <id>feed1</id>
+          <url>https://pkgs.dev.azure.com/earuharika98/artifact3/_packaging/feed1/maven/v1</url>
           <releases>
           <enabled>true</enabled>
           </releases>
